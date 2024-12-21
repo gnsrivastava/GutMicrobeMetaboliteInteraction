@@ -1,3 +1,3 @@
 1. Lipinski Properties of metabolites: Lipinski_Properties.csv
-  The file contains hydrogen bond donors, acceptors, molecular weights and logP values of all the metabolites in our dataset
+  The file contains values for hydrogen bond donors, acceptors, molecular weights, logP and druglikeness(QED) values of all the metabolites in our dataset
 2. 
