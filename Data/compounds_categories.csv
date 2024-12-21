@@ -1,0 +1,161 @@
+"1,2-Ethanediol",Alcohol,Alcohol
+Benzyl alcohol,Alcohol,Alcohol
+Butanol,Alcohol,Alcohol
+"1,2-propanediol",Alcohol,Alcohol
+Propanol,Alcohol,Alcohol
+Isopropanol,Alcohol,Alcohol
+Pentanol,Alcohol,Alcohol
+"1,3-Propanediol",Alcohol,Alcohol
+"[R,R]-2,3-Butanediol",Alcohol,Alcohol
+Glycerol,Triol,Alcohol
+Urea,Carbamide,Amide
+Ethanolamine,Amine,Amine
+Trimethylamine,Amine,Amine
+Butylamine,Amine,Amine
+Cadaverine,Diamine,Amine
+Putrescine,Diamine,Amine
+Spermidine,Polyamine,Amine
+Choline,Ammonium Salt,Amine
+Betaine,Quaternary Ammonium Compound,Amino Acid
+4-Aminobutyrate,Gamma Amino Acid,Amino Acid
+5-Aminovalerate,Delta Amino Acid,Amino Acid
+beta-alanine,Amino Acid,Amino Acid
+L-Glycine,Amino Acid,Amino Acid
+L-Cysteine,Amino Acid,Amino Acid
+L-Alanine,Amino Acid,Amino Acid
+L-Serine,Amino Acid,Amino Acid
+L-Aspartate,Amino Acid,Amino Acid
+L-Glutamine,Amino Acid,Amino Acid
+L-Lysine,Amino Acid,Amino Acid
+L-Tyrosine,Amino Acid,Amino Acid
+L-Leucine,Amino Acid,Amino Acid
+L-Methionine,Amino Acid,Amino Acid
+L-Phenylalanine,Amino Acid,Amino Acid
+L-Ornithine,Alpha Amino Acid,Amino Acid
+L-Asparagine,Amino Acid,Amino Acid
+L-Histidine,Amino Acid,Amino Acid
+L-Valine,Amino Acid,Amino Acid
+L-Threonine,Amino Acid,Amino Acid
+L-Tryptophan,Amino Acid,Amino Acid
+L-Isoleucine,Amino Acid,Amino Acid
+L-Arginine,Amino Acid,Amino Acid
+L-Homoserine,Amino Acid,Amino Acid
+L-Glutamate,Amino Acid,Amino Acid
+L-Proline,Amino Acid,Amino Acid
+4-Aminobenzoate,Amino Benzoic Acid Derivative,Aromatic
+Indole,Aromatic Compound,Aromatic
+Toluene,Aromatic Compound,Aromatic
+Phenol,Hydroxybenzene,Aromatic
+Indole-3-acetate,Indole Derivative,Aromatic
+Tryptamine,Indoleamine,Aromatic
+Tyramine,Phenethylamine Derivative,Aromatic
+p-Cresol,Phenol,Aromatic
+Phenylacetate,Phenyl Derivative,Aromatic
+Phenylethylamine,Phenylethylamine,Aromatic
+Orotic acid,Pyrimidine Derivative,Aromatic
+D-Galactosamine,Amino Carbohydrate,Carbohydrate
+N-Acetylgalactosamine,Amino Carbohydrate,Carbohydrate
+N-Acetyl-D-Glucosamine,Amino Carbohydrate,Carbohydrate
+D-Glucosamine,Amino Carbohydrate,Carbohydrate
+N-Acetyl-D-mannosamine,Amino Carbohydrate,Carbohydrate
+D-Lyxose,Carbohydrate,Carbohydrate
+Pectin,Carbohydrate,Carbohydrate
+D-Glucose,Carbohydrate,Carbohydrate
+Sucrose,Carbohydrate,Carbohydrate
+D-Xylose,Carbohydrate,Carbohydrate
+D-Galactose,Carbohydrate,Carbohydrate
+Lactose,Carbohydrate,Carbohydrate
+Maltose,Carbohydrate,Carbohydrate
+XOS,Carbohydrate,Carbohydrate
+Trehalose,Carbohydrate,Carbohydrate
+Cellobiose,Carbohydrate,Carbohydrate
+Melibiose,Carbohydrate,Carbohydrate
+L-Fucose,Carbohydrate,Carbohydrate
+D-Mannose,Carbohydrate,Carbohydrate
+Chitin,Carbohydrate,Carbohydrate
+Chondroitin 4-sulfate,Carbohydrate,Carbohydrate
+L-Rhamnose,Carbohydrate,Carbohydrate
+L-Sorbose,Carbohydrate,Carbohydrate
+Isomaltose,Carbohydrate,Carbohydrate
+D-Arabinose,Carbohydrate,Carbohydrate
+D-Psicose,Carbohydrate,Carbohydrate
+D-Fructose,Carbohydrate,Carbohydrate
+D-Tagatose,Carbohydrate,Carbohydrate
+D-Turanose,Carbohydrate,Carbohydrate
+D-Ribose,Carbohydrate,Carbohydrate
+Cellulose,Carbohydrate,Carbohydrate
+Alginate,Carbohydrate,Carbohydrate
+L-Idonate,Sugar Acid,Carbohydrate
+D-Glucuronic acid,Sugar Acid,Carbohydrate
+D-Galacturonate,Sugar Acid,Carbohydrate
+D-Fructuronate,Sugar Acid,Carbohydrate
+D-Gluconate,Sugar Acid,Carbohydrate
+Inositol,Sugar Alcohol,Carbohydrate
+D-Sorbitol,Sugar Alcohol,Carbohydrate
+D-Mannitol,Sugar Alcohol,Carbohydrate
+Xylitol,Sugar Alcohol,Carbohydrate
+Galactitol,Sugar Alcohol,Carbohydrate
+Erythritol,Sugar Alcohol,Carbohydrate
+L-Arabitol,Sugar Alcohol,Carbohydrate
+Acetate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Benzoate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Butyrate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Pimelate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+L-Malate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Glyoxylate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Malonate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Propanoate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Isobutyrate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Valerate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+2-methylbutyrate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Caproate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Isovalerate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Crotonate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+cis-Aconitate,Carboxylic Acid Derivative,Carboxylic Acid Derivative
+Citrate,Citric Acid Derivative,Carboxylic Acid Derivative
+Oxalate,Dicarboxylic Acid,Carboxylic Acid Derivative
+Succinate,Dicarboxylic Acid,Carboxylic Acid Derivative
+Oxaloacetate,Keto Acid,Carboxylic Acid Derivative
+Pyruvate,Keto Acid,Carboxylic Acid Derivative
+Itaconate,Unsaturated Dicarboxylic Acid,Carboxylic Acid Derivative
+alpha-ketoglutarate,Alpha Keto Acid,Carboxylic Acid Derivative
+2-Oxobutyrate,Alpha Keto Acid,Carboxylic Acid Derivative
+D-Tagaturonate,Hexuronic Acid,Carboxylic Acid Derivative
+L-Lactate,Hydroxy Acid,Carboxylic Acid Derivative
+Glycolate,Hydroxy Acid,Carboxylic Acid Derivative
+Organic Molecule,Organic Compound Category,Categories
+Oleic acid,Fatty Acid,Fatty Acid
+Linoleic acid,Fatty Acid,Fatty Acid
+Stearic acid,Fatty Acid Derivative,Fatty Acid
+Acetoin,Ketone,Ketone
+Acetone,Ketone,Ketone
+Inosine,Nucleoside,Nucleoside
+Thymidine,Nucleoside,Nucleoside
+Uridine,Nucleoside,Nucleoside
+Propanal,Aldehyde,Other
+Benzaldehyde,Aldehyde,Other
+Bicarbonate,Inorganic Compound,Other
+N-Acetylneuraminic acid,Sialic Acid Derivative,Other
+Taurine,Sulfonic Acid Derivative,Other
+Isethionate,Sulfonic Acid Derivative,Other
+Triglyceride,Triacylglycerol,Other
+Lithocholic acid,Steroid Derivatives,Steroid Derivatives
+Chenodeoxycholic acid,Steroid Derivatives,Steroid Derivatives
+Glycocholate,Steroid Derivatives,Steroid Derivatives
+Glycochenodeoxycholate,Steroid Derivatives,Steroid Derivatives
+Glycolithocholate,Steroid Derivatives,Steroid Derivatives
+Cholic acid,Steroid Derivatives,Steroid Derivatives
+Deoxycholic acid,Steroid Derivatives,Steroid Derivatives
+Taurochenodeoxycholate,Steroid Derivatives,Steroid Derivatives
+Taurolithocholate,Steroid Derivatives,Steroid Derivatives
+Taurodeoxycholate,Steroid Derivatives,Steroid Derivatives
+Glycodeoxycholate,Steroid Derivatives,Steroid Derivatives
+Niacin,Vitamin,Vitamin
+Pyridoxal,Vitamin,Vitamin
+Thiamine,Vitamin,Vitamin
+Menaquinone,Vitamin,Vitamin
+Folic acid,Vitamin,Vitamin
+Pantothenic acid,Vitamin,Vitamin
+Riboflavin,Vitamin,Vitamin
+Biotin,Vitamin,Vitamin
+Ascorbic acid,Vitamin,Vitamin
