@@ -9,7 +9,7 @@ Four classification models are provided in this repository:
 3. Metabolite consumption by gut microbes
 4. Metabolite production by gut microbes
 
-Dependencies
-1. python3
-2. pandas
-3. sklearn 0.23.2
+## Dependencies
+1. pandas 1.1.3
+2. sklearn 0.23.2
+
