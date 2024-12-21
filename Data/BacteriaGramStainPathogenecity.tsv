@@ -1,0 +1,313 @@
+Microbial species or host cell-type	Family	Phylum	Taxon_ID	Stain	Pathogeneticity
+Acidothermus cellulolyticus	Acidothermaceae	Actinomycetota	351607	+	No
+Actinomyces urogenitalis	Actinomycetaceae	Actinomycetota	103621	+	Pathogen
+Atopobium parvulum	Atopobiaceae	Actinomycetota	521095	+	No
+Atopobium rimae	Atopobiaceae	Actinomycetota	1383	+	
+Atopobium vaginae	Atopobiaceae	Actinomycetota	82135	+	
+Bifidobacterium adolescentis	Bifidobacteriaceae	Actinomycetota	367928	+	Pathogen
+Bifidobacterium dentium	Bifidobacteriaceae	Actinomycetota	401473	+	Pathogen
+Bifidobacterium angulatum	Bifidobacteriaceae	Actinomycetota	1683	+	
+Bifidobacterium animalis	Bifidobacteriaceae	Actinomycetota	442563	+	No
+Bifidobacterium bifidum	Bifidobacteriaceae	Actinomycetota	1681	+	No
+Bifidobacterium breve	Bifidobacteriaceae	Actinomycetota	1685	+	Pathogen
+Bifidobacterium gallicum	Bifidobacteriaceae	Actinomycetota	561180	+	
+Bifidobacterium pseudocatenulatum	Bifidobacteriaceae	Actinomycetota	28026	+	
+Cellulomonas flavigena	Cellulomonadaceae	Actinomycetota	446466	+	Pathogen
+Collinsella intestinalis	Coriobacteriaceae	Actinomycetota	521003	+	
+Collinsella stercoris	Coriobacteriaceae	Actinomycetota	445975	+	
+Corynebacterium glutamicum	Corynebacteriaceae	Actinomycetota	196627	+	No
+Corynebacterium diphtheriae	Corynebacteriaceae	Actinomycetota	257309	+	Pathogen
+Eggerthella lenta	Eggerthellaceae	Actinomycetota	479437	+	Pathogen
+Micrococcus luteus	Micrococcaceae	Actinomycetota	1232675	+	No
+Mycobacterium avium	Mycobacteriaceae	Actinomycetota	262316	+	Pathogen
+Mycobacterium leprae	Mycobacteriaceae	Actinomycetota	272631	+	Pathogen
+Aeromicrobium marinum	Nocardioidaceae	Actinomycetota	585531	+	
+Thermobifida fusca	Nocardiopsaceae	Actinomycetota	269800	+	No
+Actinosynnema mirum	Pseudonocardiaceae	Actinomycetota	446462	+	No
+Streptomyces viridochromogenes	Streptomycetaceae	Actinomycetota	591159	+	
+Thermomonospora curvata	Thermomonosporaceae	Actinomycetota	471852	+	
+Bacteroides thetaiotaomicron	Bacteroidaceae	Bacteroidota	226186	-	No
+Bacteroides caccae	Bacteroidaceae	Bacteroidota	47678	-	
+Bacteroides coprocola	Bacteroidaceae	Bacteroidota	470145	-	
+Bacteroides coprophilus	Bacteroidaceae	Bacteroidota	547042	-	
+Bacteroides eggerthii	Bacteroidaceae	Bacteroidota	483216	-	
+Bacteroides fragilis	Bacteroidaceae	Bacteroidota	295405	-	Pathogen
+Bacteroides helcogenes	Bacteroidaceae	Bacteroidota	693979	-	Pathogen
+Bacteroides intestinalis	Bacteroidaceae	Bacteroidota	471870	-	Pathogen
+Bacteroides ovatus	Bacteroidaceae	Bacteroidota	28116	-	
+Bacteroides plebeius	Bacteroidaceae	Bacteroidota	310297	-	
+Bacteroides salanitronis	Bacteroidaceae	Bacteroidota	667015	-	No
+Bacteroides stercoris	Bacteroidaceae	Bacteroidota	46506	-	Pathogen
+Cytophaga hutchinsonii	Cytophagaceae	Bacteroidota	269798	-	No
+Flavobacterium johnsoniae	Flavobacteriaceae	Bacteroidota	376686	-	
+Odoribacter splanchnicus	Odoribacteraceae	Bacteroidota	709991	-	
+Porphyromonas asaccharolytica	Porphyromonadaceae	Bacteroidota	879243	-	Pathogen
+Porphyromonas gingivalis	Porphyromonadaceae	Bacteroidota	242619	-	Pathogen
+Prevotella amnii	Prevotellaceae	Bacteroidota	419005	-	Pathogen
+Prevotella bivia	Prevotellaceae	Bacteroidota	28125	-	Pathogen
+Prevotella bryantii	Prevotellaceae	Bacteroidota	77095	-	
+Prevotella buccae	Prevotellaceae	Bacteroidota	873513	-	Pathogen
+Prevotella buccalis	Prevotellaceae	Bacteroidota	679190	-	
+Prevotella copri	Prevotellaceae	Bacteroidota	537011	-	
+Prevotella disiens	Prevotellaceae	Bacteroidota	866771	-	
+Prevotella marshii	Prevotellaceae	Bacteroidota	862515	-	
+Prevotella multiformis	Prevotellaceae	Bacteroidota	888743	-	
+Prevotella oralis	Prevotellaceae	Bacteroidota	28134	-	Pathogen
+Prevotella oris	Prevotellaceae	Bacteroidota	649760	-	
+Prevotella salivae	Prevotellaceae	Bacteroidota	888832	-	Pathogen
+Prevotella timonensis	Prevotellaceae	Bacteroidota	1122992	-	Pathogen
+Prevotella veroralis	Prevotellaceae	Bacteroidota	649761	-	
+Alistipes putredinis	Rikenellaceae	Bacteroidota	28117	-	Pathogen
+Alistipes shahii	Rikenellaceae	Bacteroidota	717959	-	Pathogen
+Parabacteroides merdae	Tannerellaceae	Bacteroidota	46503	-	Pathogen
+Parabacteroides distasonis	Tannerellaceae	Bacteroidota	435591	-	No
+Bacteroides vulgatus	Bacteroidaceae	Bacteroidota	435590	+	No
+Wolinella succinogenes	Helicobacteraceae	Campylobacterota	273121	-	No
+Helicobacter pylori	Helicobacteraceae	Campylobacterota	85962	-	Pathogen
+Thermus thermophilus	Thermaceae	Deinococcota	798128	-	No
+Deinococcus radiodurans	Deinococcaceae	Deinococcota	243230	+	No
+Fibrobacter succinogenes (Bacteroides succinogenes)	Fibrobacteraceae	Fibrobacterota	59374	-	No
+Acidaminococcus fermentans	Acidaminococcaceae	Firmicutes	591001	-	Pathogen
+Cellulosilyticum lentocellum	Cellulosilyticaceae	Firmicutes	642492	-	
+Clostridium cellulovorans	Clostridiaceae	Firmicutes	573061	-	No
+Syntrophobotulus glycolicus	Desulfitobacteriaceae	Firmicutes	645991	-	No
+Eubacterium eligens	Lachnospiraceae	Firmicutes	515620	-	No
+Lactobacillus ruminis	Lactobacillaceae	Firmicutes	1069534	-	No
+Pseudoflavonifractor capillosus	Oscillospiraceae	Firmicutes	411467	-	
+Bacteroides pectinophilus	Other	Firmicutes	483218	-	No
+Desulfotomaculum reducens	Peptococcaceae	Firmicutes	349161	-	
+Selenomonas flueggei	Selenomonadaceae	Firmicutes	638302	-	
+Selenomonas noxia	Selenomonadaceae	Firmicutes	702437	-	
+Selenomonas sputigena	Selenomonadaceae	Firmicutes	546271	-	
+Syntrophothermus lipocalidus	Syntrophomonadaceae	Firmicutes	643648	-	No
+Dialister invisus	Veillonellaceae	Firmicutes	592028	-	
+Megasphaera micronuciformis	Veillonellaceae	Firmicutes	706434	-	Pathogen
+Veillonella atypica	Veillonellaceae	Firmicutes	39777	-	Pathogen
+Veillonella dispar	Veillonellaceae	Firmicutes	39778	-	Pathogen
+Veillonella parvula	Veillonellaceae	Firmicutes	29466	-	Pathogen
+Bacillus cereus	Bacillaceae	Firmicutes	526986	+	Pathogen
+Bacillus mycoides	Bacillaceae	Firmicutes	1405	+	
+Bacillus licheniformis	Bacillaceae	Firmicutes	279010	+	Pathogen
+Bacillus pumilus	Bacillaceae	Firmicutes	315750	+	Pathogen
+Caldicellulosiruptor saccharolyticus	Caldicellulosiruptoraceae	Firmicutes	351627	+	No
+Non	Clostridiaceae	Firmicutes	272562	+	No
+Clostridium beijerinckii	Clostridiaceae	Firmicutes	1520	+	No
+Clostridium butyricum	Clostridiaceae	Firmicutes	1492	+	
+Clostridium carboxidivorans	Clostridiaceae	Firmicutes	536227	+	
+Clostridium kluyveri	Clostridiaceae	Firmicutes	431943	+	No
+Clostridium ljungdahlii	Clostridiaceae	Firmicutes	748727	+	No
+Clostridium novyi	Clostridiaceae	Firmicutes	386415	+	No
+Clostridium tetani	Clostridiaceae	Firmicutes	212717	+	Pathogen
+Pelotomaculum thermopropionicum	Desulfotomaculaceae	Firmicutes	370438	+	No
+Desulfotomaculum nigrificans	Desulfotomaculaceae	Firmicutes	868595	+	No
+Enterococcus gallinarum	Enterococcaceae	Firmicutes	1353	+	Pathogen
+Enterococcus italicus	Enterococcaceae	Firmicutes	888064	+	
+Holdemania filiformis	Erysipelotrichaceae	Firmicutes	545696	+	
+Erysipelothrix rhusiopathiae	Erysipelotrichaceae	Firmicutes	1648	+	Pathogen
+Eubacterium cellulosolvens	Eubacteriaceae	Firmicutes	633697	+	
+Eubacterium limosum	Eubacteriaceae	Firmicutes	1736	+	No
+Eubacterium saphenum	Eubacteriaceae	Firmicutes	592031	+	
+Eubacterium ventriosum	Eubacteriaceae	Firmicutes	411463	+	
+Acetohalobium arabaticum	Halobacteroidaceae	Firmicutes	574087	+	No
+Anaerostipes caccae	Lachnospiraceae	Firmicutes	411490	+	
+Butyrivibrio crossotus	Lachnospiraceae	Firmicutes	45851	+	
+Butyrivibrio proteoclasticus	Lachnospiraceae	Firmicutes	515622	+	No
+Clostridium hylemonae	Lachnospiraceae	Firmicutes	553973	+	
+Clostridium scindens	Lachnospiraceae	Firmicutes	411468	+	
+Clostridium symbiosum	Lachnospiraceae	Firmicutes	1512	+	
+Coprococcus catus	Lachnospiraceae	Firmicutes	717962	+	
+Coprococcus comes	Lachnospiraceae	Firmicutes	410072	+	
+Coprococcus eutactus	Lachnospiraceae	Firmicutes	411474	+	
+Dorea formicigenerans	Lachnospiraceae	Firmicutes	411461	+	
+Dorea longicatena	Lachnospiraceae	Firmicutes	88431	+	
+Eubacterium rectale	Lachnospiraceae	Firmicutes	515619	+	No
+Marvinbryantia formatexigens	Lachnospiraceae	Firmicutes	168384	+	
+Roseburia intestinalis	Lachnospiraceae	Firmicutes	166486	+	
+Roseburia inulinivorans	Lachnospiraceae	Firmicutes	360807	+	
+Ruminococcus gnavus	Lachnospiraceae	Firmicutes	33038	+	
+Ruminococcus torques	Lachnospiraceae	Firmicutes	33039	+	
+Blautia hansenii	Lachnospiraceae	Firmicutes	537007	+	
+Ruminococcus lactaris	Lachnospiraceae	Firmicutes	1073376	+	
+Lactobacillus brevis	Lactobacillaceae	Firmicutes	387344	+	No
+Lactobacillus rhamnosus	Lactobacillaceae	Firmicutes	47715	+	No
+Lactobacillus acidophilus	Lactobacillaceae	Firmicutes	272621	+	No
+Lactobacillus amylolyticus	Lactobacillaceae	Firmicutes	83683	+	
+Lactobacillus amylovorus	Lactobacillaceae	Firmicutes	1604	+	No
+Lactobacillus antri	Lactobacillaceae	Firmicutes	525309	+	
+Lactobacillus casei	Lactobacillaceae	Firmicutes	1582	+	No
+Lactobacillus coleohominis	Lactobacillaceae	Firmicutes	575594	+	
+Lactobacillus crispatus	Lactobacillaceae	Firmicutes	47770	+	No
+Lactobacillus delbrueckii	Lactobacillaceae	Firmicutes	390333	+	No
+Lactobacillus fermentum	Lactobacillaceae	Firmicutes	1613	+	No
+Lactobacillus gasseri	Lactobacillaceae	Firmicutes	324831	+	No
+Lactobacillus helveticus	Lactobacillaceae	Firmicutes	1587	+	No
+Lactobacillus iners	Lactobacillaceae	Firmicutes	713605	+	Pathogen
+Lactobacillus jensenii	Lactobacillaceae	Firmicutes	109790	+	Pathogen
+Lactobacillus johnsonii	Lactobacillaceae	Firmicutes	33959	+	No
+Lactobacillus oris	Lactobacillaceae	Firmicutes	944562	+	
+Lactobacillus plantarum	Lactobacillaceae	Firmicutes	220668	+	No
+Lactobacillus reuteri	Lactobacillaceae	Firmicutes	557436	+	No
+Lactobacillus sakei	Lactobacillaceae	Firmicutes	314315	+	No
+Lactobacillus salivarius	Lactobacillaceae	Firmicutes	362948	+	No
+Lactobacillus ultunensis	Lactobacillaceae	Firmicutes	525365	+	
+Lactobacillus vaginalis	Lactobacillaceae	Firmicutes	1423814	+	Pathogen
+Leuconostoc citreum	Lactobacillaceae	Firmicutes	349519	+	No
+Leuconostoc kimchii	Lactobacillaceae	Firmicutes	762051	+	No
+Leuconostoc mesenteroides	Lactobacillaceae	Firmicutes	1245	+	No
+Oenococcus oeni	Lactobacillaceae	Firmicutes	203123	+	No
+Pediococcus acidilactici	Lactobacillaceae	Firmicutes	1254	+	No
+Pediococcus pentosaceus	Lactobacillaceae	Firmicutes	278197	+	No
+Weissella paramesenteroides	Lactobacillaceae	Firmicutes	585506	+	
+Listeria monocytogenes	Listeriaceae	Firmicutes	169963	+	Pathogen
+Moorella thermoacetica	Moorellaceae	Firmicutes	264732	+	No
+Anaerotruncus colihominis	Oscillospiraceae	Firmicutes	169435	+	
+Acetivibrio cellulolyticus	Oscillospiraceae	Firmicutes	509191	+	No
+Clostridium methylpentosum	Oscillospiraceae	Firmicutes	537013	+	
+Eubacterium siraeum	Oscillospiraceae	Firmicutes	39492	+	
+Ruminococcus bromii	Oscillospiraceae	Firmicutes	657321	+	
+Ruminococcus flavefaciens	Oscillospiraceae	Firmicutes	1265	+	
+Subdoligranulum variabile	Oscillospiraceae	Firmicutes	411471	+	
+Brevibacillus brevis	Paenibacillaceae	Firmicutes	358681	+	No
+Paenibacillus polymyxa	Paenibacillaceae	Firmicutes	1406	+	No
+Desulfotomaculum acetoxidans	Peptococcaceae	Firmicutes	485916	+	No
+Finegoldia magna	Peptoniphilaceae	Firmicutes	334413	+	Pathogen
+Anaerococcus hydrogenalis	Peptoniphilaceae	Firmicutes	561177	+	
+Anaerococcus lactolyticus	Peptoniphilaceae	Firmicutes	525254	+	
+Anaerococcus tetradius	Peptoniphilaceae	Firmicutes	33036	+	Pathogen
+Peptoniphilus harei	Peptoniphilaceae	Firmicutes	54005	+	
+Peptoniphilus lacrimalis	Peptoniphilaceae	Firmicutes	1122949	+	
+Clostridium difficile	Peptostreptococcaceae	Firmicutes	272563	+	Pathogen
+Clostridium hiranonis	Peptostreptococcaceae	Firmicutes	500633	+	
+Peptostreptococcus anaerobius	Peptostreptococcaceae	Firmicutes	1261	+	Pathogen
+Peptostreptococcus stomatis	Peptostreptococcaceae	Firmicutes	596315	+	
+Staphylococcus aureus	Staphylococcaceae	Firmicutes	93061	+	Pathogen
+Staphylococcus carnosus	Staphylococcaceae	Firmicutes	1281	+	No
+Staphylococcus epidermidis	Staphylococcaceae	Firmicutes	176279	+	Pathogen
+Staphylococcus haemolyticus	Staphylococcaceae	Firmicutes	1283	+	Pathogen
+Staphylococcus lugdunensis	Staphylococcaceae	Firmicutes	28035	+	Pathogen
+Staphylococcus pseudintermedius	Staphylococcaceae	Firmicutes	937773	+	Pathogen
+Staphylococcus saprophyticus	Staphylococcaceae	Firmicutes	29385	+	Pathogen
+Staphylococcus warneri	Staphylococcaceae	Firmicutes	1194526	+	Pathogen
+Lactococcus lactis	Streptococcaceae	Firmicutes	416870	+	Pathogen
+Streptococcus agalactiae	Streptococcaceae	Firmicutes	208435	+	Pathogen
+Streptococcus anginosus	Streptococcaceae	Firmicutes	862971	+	
+Streptococcus bovis (Streptococcus equinus)	Streptococcaceae	Firmicutes	1335	+	Pathogen
+Streptococcus cristatus	Streptococcaceae	Firmicutes	45634	+	Pathogen
+Streptococcus downei	Streptococcaceae	Firmicutes	904293	+	
+Streptococcus dysgalactiae	Streptococcaceae	Firmicutes	759913	+	Pathogen
+Streptococcus equi	Streptococcaceae	Firmicutes	1051072	+	No
+Streptococcus gordonii	Streptococcaceae	Firmicutes	467705	+	Pathogen
+Streptococcus infantarius	Streptococcaceae	Firmicutes	102684	+	
+Streptococcus infantis	Streptococcaceae	Firmicutes	68892	+	Pathogen
+Streptococcus mitis	Streptococcaceae	Firmicutes	365659	+	No
+Streptococcus mutans	Streptococcaceae	Firmicutes	210007	+	Pathogen
+Streptococcus oralis	Streptococcaceae	Firmicutes	1303	+	
+Streptococcus parasanguinis	Streptococcaceae	Firmicutes	1114965	+	
+Streptococcus peroris	Streptococcaceae	Firmicutes	888746	+	Pathogen
+Streptococcus pneumoniae	Streptococcaceae	Firmicutes	171101	+	Pathogen
+Streptococcus pseudoporcinus	Streptococcaceae	Firmicutes	361101	+	
+Streptococcus pyogenes	Streptococcaceae	Firmicutes	1314	+	Pathogen
+Streptococcus salivarius	Streptococcaceae	Firmicutes	1304	+	
+Streptococcus sanguinis	Streptococcaceae	Firmicutes	388919	+	Pathogen
+Streptococcus thermophilus	Streptococcaceae	Firmicutes	264199	+	No
+Streptococcus uberis	Streptococcaceae	Firmicutes	218495	+	Pathogen
+Fusobacterium mortiferum	Fusobacteriaceae	Fusobacteriota	469616	-	Pathogen
+Fusobacterium periodonticum	Fusobacteriaceae	Fusobacteriota	546275	-	
+Fusobacterium ulcerans	Fusobacteriaceae	Fusobacteriota	469617	-	
+Fusobacterium varium	Fusobacteriaceae	Fusobacteriota	469618	-	Pathogen
+Ilyobacter polytropus	Fusobacteriaceae	Fusobacteriota	572544	-	No
+Leptotrichia buccalis	Leptotrichiaceae	Fusobacteriota	523794	-	Pathogen
+Leptotrichia goodfellowii	Leptotrichiaceae	Fusobacteriota	714315	-	
+Leptotrichia hofstadii	Leptotrichiaceae	Fusobacteriota	634994	-	No
+Mycoplasma alligatoris	Metamycoplasmataceae	Mycoplasmatota	747682	-	Pathogen
+Mycoplasma arthritidis	Metamycoplasmataceae	Mycoplasmatota	243272	-	Pathogen
+Mycoplasma bovis	Metamycoplasmataceae	Mycoplasmatota	28903	-	Pathogen
+Mycoplasma crocodyli	Metamycoplasmataceae	Mycoplasmatota	512564	-	Pathogen
+Mycoplasma fermentans	Metamycoplasmataceae	Mycoplasmatota	943945	-	Pathogen
+Mycoplasma hyopneumoniae	Metamycoplasmataceae	Mycoplasmatota	907287	-	No
+Mycoplasma mobile	Metamycoplasmataceae	Mycoplasmatota	267748	-	No
+Mycoplasma pulmonis	Metamycoplasmataceae	Mycoplasmatota	272635	-	Pathogen
+Mycoplasma synoviae	Metamycoplasmataceae	Mycoplasmatota	262723	-	Pathogen
+Mycoplasma mycoides	Mycoplasmataceae	Mycoplasmatota	272632	-	Pathogen
+Mycoplasma gallisepticum	Mycoplasmoidaceae	Mycoplasmatota	1006581	-	No
+Mycoplasma genitalium	Mycoplasmoidaceae	Mycoplasmatota	243273	-	Pathogen
+Mycoplasma penetrans	Mycoplasmoidaceae	Mycoplasmatota	272633	-	Pathogen
+Acholeplasma laidlawii	Acholeplasmataceae	Mycoplasmatota	441768	+	No
+Mycoplasma conjunctivae	Metamycoplasmataceae	Mycoplasmatota	45361	+	Pathogen
+Mycoplasma haemofelis	Metamycoplasmataceae	Mycoplasmatota	859194	+	No
+Mycoplasma hominis	Metamycoplasmataceae	Mycoplasmatota	347256	+	Pathogen
+Mycoplasma hyorhinis	Metamycoplasmataceae	Mycoplasmatota	2100	+	Pathogen
+Ureaplasma parvum	Mycoplasmoidaceae	Mycoplasmatota	273119	+	Pathogen
+Ureaplasma urealyticum	Mycoplasmoidaceae	Mycoplasmatota	565575	+	Pathogen
+Acetobacter pasteurianus	Acetobacteraceae	Pseudomonadota	634452	-	No
+Acidiphilium cryptum	Acetobacteraceae	Pseudomonadota	349163	-	No
+Gluconobacter oxydans	Acetobacteraceae	Pseudomonadota	290633	-	No
+Aeromonas hydrophila	Aeromonadaceae	Pseudomonadota	380703	-	Pathogen
+Aeromonas salmonicida	Aeromonadaceae	Pseudomonadota	29491	-	Pathogen
+Achromobacter piechaudii	Alcaligenaceae	Pseudomonadota	1156919	-	
+Achromobacter xylosoxidans	Alcaligenaceae	Pseudomonadota	762376	-	No
+Brucella abortus	Brucellaceae	Pseudomonadota	359391	-	Pathogen
+Sodalis glossinidius	Bruguierivoracaceae	Pseudomonadota	343509	-	No
+Burkholderia cenocepacia	Burkholderiaceae	Pseudomonadota	95486	-	Pathogen
+Burkholderia cepacia	Burkholderiaceae	Pseudomonadota	292	-	Pathogen
+Burkholderia glumae	Burkholderiaceae	Pseudomonadota	626418	-	No
+Burkholderia multivorans	Burkholderiaceae	Pseudomonadota	395019	-	Pathogen
+Comamonas testosteroni	Comamonadaceae	Pseudomonadota	688245	-	Pathogen
+Escherichia coli	Enterobacteriaceae	Pseudomonadota	511145	-	Pathogen
+Citrobacter koseri	Enterobacteriaceae	Pseudomonadota	290338	-	Pathogen
+Citrobacter rodentium	Enterobacteriaceae	Pseudomonadota	637910	-	Pathogen
+Klebsiella pneumoniae	Enterobacteriaceae	Pseudomonadota	272620	-	Pathogen
+Enterobacter cloacae	Enterobacteriaceae	Pseudomonadota	716541	-	Pathogen
+Baumannia cicadellinicola	Enterobacteriaceae	Pseudomonadota	374463	-	No
+Shigella flexneri	Enterobacteriaceae	Pseudomonadota	198214	-	Pathogen
+Enterobacter cancerogenus	Enterobacteriaceae	Pseudomonadota	500639	-	
+Buchnera aphidicola	Erwiniaceae	Pseudomonadota	98804	-	No
+Methylobacterium nodulans	Methylobacteriaceae	Pseudomonadota	460265	-	No
+Acinetobacter calcoaceticus	Moraxellaceae	Pseudomonadota	471	-	
+Acinetobacter radioresistens	Moraxellaceae	Pseudomonadota	40216	-	
+Proteus mirabilis	Morganellaceae	Pseudomonadota	584	-	Pathogen
+Proteus penneri	Morganellaceae	Pseudomonadota	585	-	
+Neisseria gonorrhoeae	Neisseriaceae	Pseudomonadota	242231	-	Pathogen
+Rhodopseudomonas palustris	Nitrobacteraceae	Pseudomonadota	652103	-	No
+Oxalobacter formigenes	Oxalobacteraceae	Pseudomonadota	847	-	
+Rhodobacter capsulatus	Paracoccaceae	Pseudomonadota	272942	-	No
+Parvularcula bermudensis	Parvularculaceae	Pseudomonadota	314260	-	No
+Aggregatibacter actinomycetemcomitans	Pasteurellaceae	Pseudomonadota	714	-	Pathogen
+Haemophilus influenzae	Pasteurellaceae	Pseudomonadota	71421	-	Pathogen
+Haemophilus parainfluenzae	Pasteurellaceae	Pseudomonadota	1035839	-	Pathogen
+Actinobacillus succinogenes	Pasteurellaceae	Pseudomonadota	339671	-	No
+Pseudomonas aeruginosa	Pseudomonadaceae	Pseudomonadota	208964	-	Pathogen
+Pseudomonas fluorescens	Pseudomonadaceae	Pseudomonadota	294	-	Pathogen
+Azotobacter vinelandii	Pseudomonadaceae	Pseudomonadota	322710	-	No
+Ensifer meliloti (Sinorhizobium meliloti)	Rhizobiaceae	Pseudomonadota	382	-	
+Rhizobium leguminosarum	Rhizobiaceae	Pseudomonadota	395492	-	No
+Rhodospirillum rubrum	Rhodospirillaceae	Pseudomonadota	269796	-	No
+Ketogulonicigenium vulgare	Roseobacteraceae	Pseudomonadota	880591	-	No
+Shewanella putrefaciens (Pseudomonas putrefaciens)	Shewanellaceae	Pseudomonadota	319224	-	Pathogen
+Vibrio cholerae	Vibrionaceae	Pseudomonadota	243277	-	Pathogen
+Xanthomonas campestris	Xanthomonadaceae	Pseudomonadota	190485	-	No
+Rhodothermus marinus	Rhodothermaceae	Rhodothermota	518766	-	No
+Spirochaeta thermophila	Spirochaetaceae	Spirochaetota	869211	-	No
+Aminobacterium colombiense	Aminobacteriaceae	Synergistota	572547	-	No
+Pyramidobacter piscolens	Dethiosulfovibrionaceae	Synergistota	352165	-	
+Desulfarculus baarsii	Desulfarculaceae	Thermodesulfobacteriota	644282	-	No
+Desulfobacterium autotrophicum	Desulfobacteraceae	Thermodesulfobacteriota	177437	-	No
+Desulfobulbus propionicus	Desulfobulbaceae	Thermodesulfobacteriota	577650	-	No
+Bilophila wadsworthia	Desulfovibrionaceae	Thermodesulfobacteriota	563192	-	
+Desulfovibrio aespoeensis	Desulfovibrionaceae	Thermodesulfobacteriota	643562	-	No
+Desulfovibrio desulfuricans	Desulfovibrionaceae	Thermodesulfobacteriota	525146	-	No
+Desulfovibrio fructosovorans	Desulfovibrionaceae	Thermodesulfobacteriota	596151	-	
+Desulfovibrio piger	Desulfovibrionaceae	Thermodesulfobacteriota	901	-	
+Desulfovibrio salexigens	Desulfovibrionaceae	Thermodesulfobacteriota	526222	-	No
+Pelobacter propionicus	Desulfuromonadaceae	Thermodesulfobacteriota	338966	-	No
+Geobacter bemidjiensis	Geobacteraceae	Thermodesulfobacteriota	404380	-	No
+Geobacter lovleyi	Geobacteraceae	Thermodesulfobacteriota	398767	-	No
+Geobacter metallireducens	Geobacteraceae	Thermodesulfobacteriota	269799	-	No
+Geobacter sulfurreducens	Geobacteraceae	Thermodesulfobacteriota	243231	-	No
+Geobacter uraniumreducens	Geobacteraceae	Thermodesulfobacteriota	351605	-	
+Syntrophus aciditrophicus	Syntrophaceae	Thermodesulfobacteriota	56780	-	No
+Syntrophobacter fumaroxidans	Syntrophobacteraceae	Thermodesulfobacteriota	335543	-	No
+Pelobacter carbinolicus	Syntrophotaleaceae	Thermodesulfobacteriota	338963	-	No
+Sphaerobacter thermophilus	Sphaerobacteraceae	Thermomicrobiota	479434	+	No
+Thermotoga maritima	Thermotogaceae	Thermotogota	243274	-	No
+Thermotoga neapolitana	Thermotogaceae	Thermotogota	309803	-	No
