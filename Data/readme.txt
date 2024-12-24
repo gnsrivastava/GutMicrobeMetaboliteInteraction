@@ -7,7 +7,7 @@
 6. Example data for BRENDA product model: ClassificationProductBrendaExample.csv
    `Instances in substrate and product models contain Pubchem ID, Enzyme ID embedded into 1024 dimensional vector`
 7. Example data for consumption model: Classification_5_Enzymes.csv
-8. Example data for production model: Classification_5_Enzymes_product.csv
+8. Example data for production model: Classification_5_Enzymes_production.csv
    `Instances in substrate and product models contain Pubchem ID, list of enzymes binding metablites sorted by STITCH scores`
     `Enzymes in the list are encoded as 1024 dimensional vector calculated using EC2Vec and metabolites encoded as 300 mol2vec vector`
 
