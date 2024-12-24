@@ -13,6 +13,7 @@ Four classification models are provided in this repository:
 1. pandas 1.5.0
 2. sklearn 1.0.2
 3. matplotlib 3.3.2
+4. numpy 1.19.2
 
 ## Input data to the models
 The EC numbers were embedded using EC2Vec (https://github.com/MengLiu90/EC2Vec). <br>
