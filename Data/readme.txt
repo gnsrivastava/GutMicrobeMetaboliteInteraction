@@ -9,3 +9,6 @@
 7. Example data for consumption model
 8. Example data for production model
    `Instances in substrate and product models contain Pubchem ID, list of enzymes binding metablites sorted by STITCH scores`
+    `Enzymes in the list are encoded as 1024 dimensional vector calculated using EC2Vec`
+
+Link: EC2Vec (https://github.com/MengLiu90/EC2Vec)
