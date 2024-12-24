@@ -25,4 +25,4 @@ The above embeddings were concatenated together as the input features to the cla
 
 ## Model training and usage
 To execute the classifiers, prepare the data as per the provided instructions and place it within the ./Data/ directory.
-1. The Python scripts RF_consumption_classifier.py and RF_production_classifier.py implement respective classifiers using the train/test split protocol.
+1. The Python scripts `RF_consumption_classifier.py` and `RF_production_classifier.py` implement respective classifiers using the train/test split protocol.
